@@ -1,0 +1,78 @@
+Who's Hiring? - March 2023
+https://www.reddit.com/r/golang/comments/11fijrn/whos_hiring_march_2023/
+
+Tell me it's my personal filter bubble. Why do people keep using Rust for building things where Go can be a perfect fit?
+https://www.reddit.com/r/golang/comments/126lif3/tell_me_its_my_personal_filter_bubble_why_do/
+
+Building a Memory Efficient Hash Table in Golang
+https://www.dolthub.com/blog/2023-03-28-swiss-map/
+
+I created an in-memory SQL database called MemSQL as a learning project
+https://www.reddit.com/r/golang/comments/126gli8/i_created_an_inmemory_sql_database_called_memsql/
+
+As a Go programmer, what design pattern, programming techniques have you actually used, implemented regularly in your workplace which made your life much easier?
+https://www.reddit.com/r/golang/comments/126y75p/as_a_go_programmer_what_design_pattern/
+
+I put together a basic tutorial of Go on my blog with examples for red teams and pen testers.
+https://unclesp1d3r.github.io/posts/2023/03/go-programming-language-basic-concepts-and-syntax/
+
+gotraceui: Go execution trace frontend
+https://github.com/dominikh/gotraceui/
+
+TIL you can stub any function with go:linkname
+https://www.reddit.com/r/golang/comments/1261j2t/til_you_can_stub_any_function_with_golinkname/
+
+Golang GUI
+https://www.reddit.com/r/golang/comments/126wivx/golang_gui/
+
+How do create dynamic models in Golang?
+https://www.reddit.com/r/golang/comments/126sxjx/how_do_create_dynamic_models_in_golang/
+
+New version of requests with support for httptest.Server
+https://pkg.go.dev/github.com/carlmjohnson/requests@v0.23.3?tab=versions
+
+Two ways to provide configuration: command-line, yaml file.
+https://www.reddit.com/r/golang/comments/126fgcj/two_ways_to_provide_configuration_commandline/
+
+Telltail: Universal Clipboard for Text
+https://www.reddit.com/r/golang/comments/126d6ix/telltail_universal_clipboard_for_text/
+
+Build a Serverless Gym App with Go, AWS Lambda, ChatGPT, Twilio and WhatsApp
+https://www.tailwarden.com/blog/build-a-serverless-gym-generator-with-chatgpt-twilio-and-whatsapp
+
+Is there a Pop3 package that works with Outlook after it's authentication changes?
+https://www.reddit.com/r/golang/comments/126r7af/is_there_a_pop3_package_that_works_with_outlook/
+
+sqlmock help
+https://www.reddit.com/r/golang/comments/126poie/sqlmock_help/
+
+Logging with Sentry
+https://www.reddit.com/r/golang/comments/126oxad/logging_with_sentry/
+
+How does the cap function work on slices?
+https://www.reddit.com/r/golang/comments/126biw8/how_does_the_cap_function_work_on_slices/
+
+How should you fail a TestMain using testing.M?
+https://www.reddit.com/r/golang/comments/126mgml/how_should_you_fail_a_testmain_using_testingm/
+
+go-nbd – A Pure Go NBD Server and Client Library
+https://github.com/pojntfx/go-nbd
+
+Package for shortest path finding in a set of polygons
+https://github.com/fzipp/pathfind
+
+GoReleaser: I'll pay someone to walk me through the Homebrew, Scoop, and/or Chocolately portion of my MVP while I take notes
+https://www.reddit.com/r/golang/comments/125zece/goreleaser_ill_pay_someone_to_walk_me_through_the/
+
+PHOS: A Go channel extension with internal handlers
+https://dev.to/justlorain/phos-a-go-channel-extension-with-internal-handlers-4lad
+
+Multi million, persistent, synchronous, horizontally scaling WebSockets in Go
+https://www.druva.com/blog/websockets--scale-at-fractional-footprint-in-go
+
+Digger (OSS Terraform Cloud Alternative) now supports GCP
+https://www.reddit.com/r/golang/comments/125unip/digger_oss_terraform_cloud_alternative_now/
+
+Integration Tests with Postgres
+https://www.storj.io/blog/go-integration-tests-with-postgres
+

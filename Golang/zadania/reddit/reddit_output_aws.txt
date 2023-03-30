@@ -1,0 +1,78 @@
+Check it first: operating within Amazon Web Services (AWS) and billing
+https://www.reddit.com/r/aws/comments/vn4ebe/check_it_first_operating_within_amazon_web/
+
+Amazon Fights Oregon Clean Energy Bill
+https://www.reddit.com/r/aws/comments/126sozh/amazon_fights_oregon_clean_energy_bill/
+
+Registration open for AWS re:Inforce 2023 | Amazon Web Services
+https://reinforce.awsevents.com
+
+AWS Application Migration Service Gets New Import and Export Features
+https://petri.com/aws-application-migration-service-import-and-export/
+
+Postgres &amp; OpenSearch
+https://www.reddit.com/r/aws/comments/126un1q/postgres_opensearch/
+
+AWS account is suspended and AWS Support is ghosting me
+https://www.reddit.com/r/aws/comments/126jihy/aws_account_is_suspended_and_aws_support_is/
+
+AWS Security Hub 100%?
+https://www.reddit.com/r/aws/comments/126zlp8/aws_security_hub_100/
+
+Client to site VPN DNS issues mac os
+https://www.reddit.com/r/aws/comments/126ziru/client_to_site_vpn_dns_issues_mac_os/
+
+Site-to-Site VPN question
+https://www.reddit.com/r/aws/comments/126xfve/sitetosite_vpn_question/
+
+Question about Terraform "aws_ecs_cluster" and VPC
+https://www.reddit.com/r/aws/comments/126x1jt/question_about_terraform_aws_ecs_cluster_and_vpc/
+
+TLS 1.3 with ELB and ALB: The Wait is Over!
+https://www.reddit.com/r/aws/comments/12611nu/tls_13_with_elb_and_alb_the_wait_is_over/
+
+How can I avoid duplicates in DynamoDB?
+https://www.reddit.com/r/aws/comments/126pwvb/how_can_i_avoid_duplicates_in_dynamodb/
+
+Communication Issue between Barracuda WAF and NLB?
+https://www.reddit.com/r/aws/comments/126vqjj/communication_issue_between_barracuda_waf_and_nlb/
+
+AMI 2022 repo always behind Amazon Linux 2 on patches
+https://www.reddit.com/r/aws/comments/126vkbj/ami_2022_repo_always_behind_amazon_linux_2_on/
+
+AzureAD --&gt; AWS Auth for Users &amp; ADO Agents
+https://www.reddit.com/r/aws/comments/126ic3c/azuread_aws_auth_for_users_ado_agents/
+
+S3 Bucket Policies Allow All Endpoints By Default?
+https://www.reddit.com/r/aws/comments/126tkwc/s3_bucket_policies_allow_all_endpoints_by_default/
+
+Which tool should I trust for my S3 security? ScoutSuite, Prowler, AWS Trusted Advisor
+https://www.reddit.com/r/aws/comments/126r29d/which_tool_should_i_trust_for_my_s3_security/
+
+Is there any reason to use Lambda layers while using bundlers?
+https://www.reddit.com/r/aws/comments/126h53e/is_there_any_reason_to_use_lambda_layers_while/
+
+lightsail transfer
+https://www.reddit.com/r/aws/comments/126jswl/lightsail_transfer/
+
+Where can I see logs of updating Cloudfront distribution in AWS Console
+https://www.reddit.com/r/aws/comments/126p2xz/where_can_i_see_logs_of_updating_cloudfront/
+
+3rd party tool for managing instances asg
+https://www.reddit.com/r/aws/comments/126obhc/3rd_party_tool_for_managing_instances_asg/
+
+AppSync vs WebSocket API gateway for push notifications
+https://www.reddit.com/r/aws/comments/1267wxg/appsync_vs_websocket_api_gateway_for_push/
+
+Unable to launch recovery instance in AWS DRS failback
+https://www.reddit.com/r/aws/comments/126j8or/unable_to_launch_recovery_instance_in_aws_drs/
+
+AWS S3: You don't have permissions to get Storage Lens details
+https://www.reddit.com/r/aws/comments/126g8ke/aws_s3_you_dont_have_permissions_to_get_storage/
+
+Amazon GuardDuty simplifies enforcement of threat detection across all accounts in an Organization
+https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-guardduty-enforcement-threat-detection-organization/
+
+Size and costs of RDS Read Replicas
+https://www.reddit.com/r/aws/comments/126fi45/size_and_costs_of_rds_read_replicas/
+

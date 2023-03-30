@@ -1,0 +1,81 @@
+So you got a huge GCP bill by accident, eh?
+https://www.reddit.com/r/googlecloud/comments/x4gi71/so_you_got_a_huge_gcp_bill_by_accident_eh/
+
+ChatGPT and Bard responses are okay here, but...
+https://www.reddit.com/r/googlecloud/comments/11xs4zx/chatgpt_and_bard_responses_are_okay_here_but/
+
+Hiring GCloud tutor for 1-2hrs
+https://www.reddit.com/r/googlecloud/comments/126ugb3/hiring_gcloud_tutor_for_12hrs/
+
+Digger (Open Source Terraform Cloud Alternative) now supports GCP
+https://www.reddit.com/r/googlecloud/comments/126mvwn/digger_open_source_terraform_cloud_alternative/
+
+How do you create and manage users in MySQL (CloudSQL) with terraform?
+https://www.reddit.com/r/googlecloud/comments/126mgcr/how_do_you_create_and_manage_users_in_mysql/
+
+Disk space hygiene on GCE debian/ubuntu instances
+https://www.reddit.com/r/googlecloud/comments/1271mud/disk_space_hygiene_on_gce_debianubuntu_instances/
+
+how to stop app running without stopping the whole VM instance
+https://www.reddit.com/r/googlecloud/comments/126k45e/how_to_stop_app_running_without_stopping_the/
+
+Is the Google Images API still available?
+https://www.reddit.com/r/googlecloud/comments/126efns/is_the_google_images_api_still_available/
+
+BigQuery Editions is Live
+https://www.reddit.com/r/googlecloud/comments/125t96h/bigquery_editions_is_live/
+
+submitting code for reviews request
+https://www.reddit.com/r/googlecloud/comments/1262dsv/submitting_code_for_reviews_request/
+
+Use cloud-sql-proxy to access instance with no public IP?
+https://www.reddit.com/r/googlecloud/comments/1263c24/use_cloudsqlproxy_to_access_instance_with_no/
+
+Is it normal to rack up $150 on MySQL?
+https://www.reddit.com/r/googlecloud/comments/125yjyg/is_it_normal_to_rack_up_150_on_mysql/
+
+Writing my PCA exam in 3 hours. Any last minute review tips?
+https://www.reddit.com/r/googlecloud/comments/125n8lk/writing_my_pca_exam_in_3_hours_any_last_minute/
+
+See you tomorrow? Live Q&amp;A on Splunk Dataflow Template
+https://www.reddit.com/r/googlecloud/comments/1260iuh/see_you_tomorrow_live_qa_on_splunk_dataflow/
+
+GA4 Raw Data into BigQuery
+https://www.reddit.com/r/googlecloud/comments/1265vaz/ga4_raw_data_into_bigquery/
+
+Dynamic billing reports with BigQuery, multiple departments, and Session_User?
+https://www.reddit.com/r/googlecloud/comments/1263jsh/dynamic_billing_reports_with_bigquery_multiple/
+
+Decrypt and Load data in BigQuery
+https://www.reddit.com/r/googlecloud/comments/1262rlk/decrypt_and_load_data_in_bigquery/
+
+How much free storage will I have for 1 VM instance per month?
+https://www.reddit.com/r/googlecloud/comments/12602d0/how_much_free_storage_will_i_have_for_1_vm/
+
+Help with GCP diagram
+https://www.reddit.com/r/googlecloud/comments/125zxee/help_with_gcp_diagram/
+
+Daily rolling backup of files within google drive?
+https://www.reddit.com/r/googlecloud/comments/125zt08/daily_rolling_backup_of_files_within_google_drive/
+
+Issue on VPC Network Peering with CloudSQL
+https://www.reddit.com/r/googlecloud/comments/125ma9u/issue_on_vpc_network_peering_with_cloudsql/
+
+How to link my Google cloud certification to my company's partner account ?
+https://www.reddit.com/r/googlecloud/comments/125lzbb/how_to_link_my_google_cloud_certification_to_my/
+
+Who has experience with Domain Shared Contacts API?
+https://www.reddit.com/r/googlecloud/comments/125gi2y/who_has_experience_with_domain_shared_contacts_api/
+
+I want to DELETE anything I have related to Google Cloud
+https://www.reddit.com/r/googlecloud/comments/125h80w/i_want_to_delete_anything_i_have_related_to/
+
+IAP and Cloud Run
+https://www.reddit.com/r/googlecloud/comments/12516mh/iap_and_cloud_run/
+
+Google Cloud - Where to start for our case
+https://www.reddit.com/r/googlecloud/comments/1252xcp/google_cloud_where_to_start_for_our_case/
+
+Tips for Google Cloud Skills boost
+https://www.reddit.com/r/googlecloud/comments/124kata/tips_for_google_cloud_skills_boost/
+

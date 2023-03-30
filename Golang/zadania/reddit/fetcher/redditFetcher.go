@@ -1,10 +1,11 @@
 package fetcher
 
 import (
+	"context"
 	"io"
 )
 
-type response struct {
+type Response struct {
 	Data struct {
 		Children []struct {
 			Data struct {
@@ -16,6 +17,6 @@ type response struct {
 }
 
 type RedditFetcher interface {
-	Fetch() error
+	Fetch(context.Context) (Response, error)
 	Save(io.Writer) error
 }

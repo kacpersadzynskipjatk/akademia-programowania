@@ -1,0 +1,81 @@
+Monthly: Who is hiring?
+https://www.reddit.com/r/kubernetes/comments/11f0v5x/monthly_who_is_hiring/
+
+Weekly: This Week I Learned (TWIL?) thread
+https://www.reddit.com/r/kubernetes/comments/126i6oe/weekly_this_week_i_learned_twil_thread/
+
+Feedback about event-driven testing in Kubernetes - Any best practices?
+https://www.reddit.com/r/kubernetes/comments/126roo1/feedback_about_eventdriven_testing_in_kubernetes/
+
+baltocdn.com (helm repo) domain suspended or not configured
+/r/k8s/comments/1272e1g/baltocdncom_domain_suspended_or_not_configured/
+
+Digger (Open Source Terraform Cloud Alternative) now supports GCP
+https://www.reddit.com/r/kubernetes/comments/126mx4u/digger_open_source_terraform_cloud_alternative/
+
+Is there any OSS tool out there that would translate traffic flows into NetworkPolicies?
+https://www.reddit.com/r/kubernetes/comments/126is4q/is_there_any_oss_tool_out_there_that_would/
+
+Meta: can we move CKAD or whatever certification discussions to weekly threads?
+https://www.reddit.com/r/kubernetes/comments/125zlbj/meta_can_we_move_ckad_or_whatever_certification/
+
+Kubernetes Kubeadm KubeletConfiguration Patch - Only on workers
+https://www.reddit.com/r/kubernetes/comments/126ymhq/kubernetes_kubeadm_kubeletconfiguration_patch/
+
+Protecting Your Kubernetes Environment With KubeArmor
+https://medium.com/@pkalkman/protecting-your-kubernetes-environment-with-kubearmor-76b02fc2209b?sk=0aa1881cbb48c2a6245cdecb2e6f2c7e
+
+Overcommitted cpu
+https://www.reddit.com/r/kubernetes/comments/126x6xm/overcommitted_cpu/
+
+KubeShark: Wireshark for Kubernetes
+https://medium.com/kernel-space/kubeshark-wireshark-for-kubernetes-4069a5f5aa3d
+
+I dont't understand imagePullPolicy "Always"
+https://www.reddit.com/r/kubernetes/comments/126i7xd/i_dontt_understand_imagepullpolicy_always/
+
+How do you run part of replicas on spot instances?
+https://www.reddit.com/r/kubernetes/comments/126ubxr/how_do_you_run_part_of_replicas_on_spot_instances/
+
+If we are configuring memory request and memory limit(double of memory limit), so pod is scheduled on one node based on request, if the pod is going above request to its limit and node doesn't have enough resources, so it will result in OOM What is the best practice to implement
+https://www.reddit.com/r/kubernetes/comments/126ta7g/if_we_are_configuring_memory_request_and_memory/
+
+Longhorn help. Unable to attach volume to mounted external drive path.
+https://www.reddit.com/r/kubernetes/comments/126mgbc/longhorn_help_unable_to_attach_volume_to_mounted/
+
+entr: cannot create kqueue: No file descriptors available
+https://www.reddit.com/r/kubernetes/comments/126slgh/entr_cannot_create_kqueue_no_file_descriptors/
+
+CKA exam feedback
+https://www.reddit.com/r/kubernetes/comments/126rau8/cka_exam_feedback/
+
+Do we need to use Curl in CKAD exam?
+https://www.reddit.com/r/kubernetes/comments/126qf33/do_we_need_to_use_curl_in_ckad_exam/
+
+Passed CKAD !
+https://www.reddit.com/r/kubernetes/comments/125wgsg/passed_ckad/
+
+Kubernetes Validating Admission Policies: A Practical Example
+https://kubernetes.io/blog/2023/03/30/kubescape-validating-admission-policy-library/
+
+What are the real attack vectors or risks of running rootless dind inside a privileged kubernetes container?
+https://www.reddit.com/r/kubernetes/comments/1267ezf/what_are_the_real_attack_vectors_or_risks_of/
+
+Possible to deploy different versions of same Application on one EKS cluster?
+https://www.reddit.com/r/kubernetes/comments/126ksx0/possible_to_deploy_different_versions_of_same/
+
+How to consume k8s events in a distributed fashion?
+https://www.reddit.com/r/kubernetes/comments/126jtaf/how_to_consume_k8s_events_in_a_distributed_fashion/
+
+How Developer Portals Abstract away Kubernetes Complexity
+https://www.reddit.com/r/kubernetes/comments/126iwxg/how_developer_portals_abstract_away_kubernetes/
+
+Hosting a webinar in a few hours on long-running tasks and KEDA. Any questions in advance?
+https://www.linkedin.com/events/kubernetestechtalks7044661710342754304/
+
+Best resources for large multi region clusters ?
+https://www.reddit.com/r/kubernetes/comments/126daf5/best_resources_for_large_multi_region_clusters/
+
+How to pass values from main chart to subchart?
+https://www.reddit.com/r/kubernetes/comments/126f4x7/how_to_pass_values_from_main_chart_to_subchart/
+
