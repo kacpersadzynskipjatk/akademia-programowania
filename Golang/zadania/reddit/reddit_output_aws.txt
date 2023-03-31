@@ -7,6 +7,9 @@ https://www.reddit.com/r/aws/comments/126sozh/amazon_fights_oregon_clean_energy_
 Registration open for AWS re:Inforce 2023 | Amazon Web Services
 https://reinforce.awsevents.com
 
+Basic Question About ElastiCache
+https://www.reddit.com/r/aws/comments/1273g1w/basic_question_about_elasticache/
+
 AWS Application Migration Service Gets New Import and Export Features
 https://petri.com/aws-application-migration-service-import-and-export/
 
@@ -21,6 +24,9 @@ https://www.reddit.com/r/aws/comments/126zlp8/aws_security_hub_100/
 
 Client to site VPN DNS issues mac os
 https://www.reddit.com/r/aws/comments/126ziru/client_to_site_vpn_dns_issues_mac_os/
+
+Invoking POST API without BOTO
+https://www.reddit.com/r/aws/comments/126yrum/invoking_post_api_without_boto/
 
 Site-to-Site VPN question
 https://www.reddit.com/r/aws/comments/126xfve/sitetosite_vpn_question/
@@ -69,10 +75,4 @@ https://www.reddit.com/r/aws/comments/126j8or/unable_to_launch_recovery_instance
 
 AWS S3: You don't have permissions to get Storage Lens details
 https://www.reddit.com/r/aws/comments/126g8ke/aws_s3_you_dont_have_permissions_to_get_storage/
-
-Amazon GuardDuty simplifies enforcement of threat detection across all accounts in an Organization
-https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-guardduty-enforcement-threat-detection-organization/
-
-Size and costs of RDS Read Replicas
-https://www.reddit.com/r/aws/comments/126fi45/size_and_costs_of_rds_read_replicas/
 

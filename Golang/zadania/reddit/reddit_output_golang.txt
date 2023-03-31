@@ -7,11 +7,11 @@ https://www.reddit.com/r/golang/comments/126lif3/tell_me_its_my_personal_filter_
 Building a Memory Efficient Hash Table in Golang
 https://www.dolthub.com/blog/2023-03-28-swiss-map/
 
-I created an in-memory SQL database called MemSQL as a learning project
-https://www.reddit.com/r/golang/comments/126gli8/i_created_an_inmemory_sql_database_called_memsql/
-
 As a Go programmer, what design pattern, programming techniques have you actually used, implemented regularly in your workplace which made your life much easier?
 https://www.reddit.com/r/golang/comments/126y75p/as_a_go_programmer_what_design_pattern/
+
+I created an in-memory SQL database called MemSQL as a learning project
+https://www.reddit.com/r/golang/comments/126gli8/i_created_an_inmemory_sql_database_called_memsql/
 
 I put together a basic tutorial of Go on my blog with examples for red teams and pen testers.
 https://unclesp1d3r.github.io/posts/2023/03/go-programming-language-basic-concepts-and-syntax/
@@ -55,6 +55,9 @@ https://www.reddit.com/r/golang/comments/126biw8/how_does_the_cap_function_work_
 How should you fail a TestMain using testing.M?
 https://www.reddit.com/r/golang/comments/126mgml/how_should_you_fail_a_testmain_using_testingm/
 
+PHOS: A Go channel extension with internal handlers
+https://dev.to/justlorain/phos-a-go-channel-extension-with-internal-handlers-4lad
+
 go-nbd – A Pure Go NBD Server and Client Library
 https://github.com/pojntfx/go-nbd
 
@@ -63,9 +66,6 @@ https://github.com/fzipp/pathfind
 
 GoReleaser: I'll pay someone to walk me through the Homebrew, Scoop, and/or Chocolately portion of my MVP while I take notes
 https://www.reddit.com/r/golang/comments/125zece/goreleaser_ill_pay_someone_to_walk_me_through_the/
-
-PHOS: A Go channel extension with internal handlers
-https://dev.to/justlorain/phos-a-go-channel-extension-with-internal-handlers-4lad
 
 Multi million, persistent, synchronous, horizontally scaling WebSockets in Go
 https://www.druva.com/blog/websockets--scale-at-fractional-footprint-in-go

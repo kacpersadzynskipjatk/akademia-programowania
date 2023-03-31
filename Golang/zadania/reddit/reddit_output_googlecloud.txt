@@ -4,6 +4,9 @@ https://www.reddit.com/r/googlecloud/comments/x4gi71/so_you_got_a_huge_gcp_bill_
 ChatGPT and Bard responses are okay here, but...
 https://www.reddit.com/r/googlecloud/comments/11xs4zx/chatgpt_and_bard_responses_are_okay_here_but/
 
+Disk space hygiene on GCE debian/ubuntu instances
+https://www.reddit.com/r/googlecloud/comments/1271mud/disk_space_hygiene_on_gce_debianubuntu_instances/
+
 Hiring GCloud tutor for 1-2hrs
 https://www.reddit.com/r/googlecloud/comments/126ugb3/hiring_gcloud_tutor_for_12hrs/
 
@@ -12,9 +15,6 @@ https://www.reddit.com/r/googlecloud/comments/126mvwn/digger_open_source_terrafo
 
 How do you create and manage users in MySQL (CloudSQL) with terraform?
 https://www.reddit.com/r/googlecloud/comments/126mgcr/how_do_you_create_and_manage_users_in_mysql/
-
-Disk space hygiene on GCE debian/ubuntu instances
-https://www.reddit.com/r/googlecloud/comments/1271mud/disk_space_hygiene_on_gce_debianubuntu_instances/
 
 how to stop app running without stopping the whole VM instance
 https://www.reddit.com/r/googlecloud/comments/126k45e/how_to_stop_app_running_without_stopping_the/
